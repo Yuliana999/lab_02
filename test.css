@@ -1,0 +1,70 @@
+
+ol{
+    background-color: rgb(217, 136, 149);
+    width: 500px;
+    height: 250px;
+    padding: 30px;
+    list-style-type: none;
+}
+
+ol li{
+    background-color: rgb(168, 68, 85);
+    color: white;
+    margin: 10px 0;
+    padding: 10px;
+}
+
+span {
+  background-color: #6e1629; 
+  color: white;      
+  padding: 10px;          
+}
+
+/*
+.pora{
+    list-style-image:  url(../images/arrow-right_16.png);
+}
+
+.zima{
+    list-style-image: url(../images/snowflake_16.png);
+}
+
+.vesna{
+    list-style-image: url(../images/leaf_g_16.png);
+}
+
+.lito{
+    list-style-image: url(../images/sun_16.png);
+}
+
+.osin{
+    list-style-image: url(../images/leaf_y_16.png);
+}*/
+
+/*
+ul{
+    list-style-type: none;
+}
+
+.one{
+    background-color: rgba(100, 155, 170, 0.559);
+    width: 250px;
+    padding: 15px;
+}
+
+.two{
+    background-color: rgba(85, 163, 204, 0.439);
+    width: 250px;
+    padding: 15px;
+}
+
+.thre{
+    background-color: rgba(207, 194, 177, 0.493);
+    width: 250px;
+    padding: 15px;
+}
+
+small{
+    color: rgb(255, 0, 0);
+}
+*/
